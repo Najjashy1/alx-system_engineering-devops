@@ -1,0 +1,2 @@
+#!/bin/bash
+egreb -v "bin" \etc\passwd

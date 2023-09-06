@@ -1,2 +1,2 @@
-3-paths
+#!/bin/bash
 num_dirs="${#path_dirs[@]}"
